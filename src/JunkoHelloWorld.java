@@ -6,7 +6,6 @@ public class JunkoHelloWorld {
 		System.out.println("I'm Junko, hello world!");
 		System.out.println("I imported it from my local, now making a change to push it to Github!");
 		System.out.println("Making more change!");
-		System.out.println("Phew, finally issue resolved!");
 	}
 
 }
